@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4842'
     url: http://www.gutenberg.org/2009/agents/4842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19264#Japanese-LiteraturePoetry-and-Drama-of-Japan
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2006-09-13'
 gutenberg_type: Text
