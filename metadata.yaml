@@ -1,0 +1,32 @@
+_repo: Japanese-LiteraturePoetry-and-Drama-of-Japan_19264
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Literary collections'
+- !lcc 'PL'
+- !lcsh 'Japanese literature -- Translations into English'
+tableOfContents: 'Genji Monogatari, by Murasaki Shikib; translated into English by
+  Suyematz Kenchio -- Classical poetry of Japan: selections, translated by B. H. Chamberlain
+  -- The drama of Japan: selected plays, translated by B. H. Chamberlain.'
+title: "Japanese Literature\r\nIncluding Selections from Genji Monogatari and Classical\
+  \ Poetry and Drama of Japan"
+url: http://www.gutenberg.org/ebooks/19264
